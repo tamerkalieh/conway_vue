@@ -17,8 +17,8 @@ export default {
     return {
       context: null,
       size: 20,
-      width: 400,
-      height: 400,
+      width: 500,
+      height: 500,
       canvasRows: 0,
       canvasCols: 0,
       autoMode: false,
